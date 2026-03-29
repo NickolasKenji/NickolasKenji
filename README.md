@@ -1,43 +1,50 @@
-<h1 align="center">Olá 👋, sou o Nickolas Kenji 😎:</h1>
+<h1 align="center">👋 Opa, sou o Nickolas Kenji 😎</h1>
 
 ## 🤓 Sobre mim:
-> * 🛠️ **Programmer** em desenvolvimento 🥰.
-> * 🌱 Atualmente estou aprendendo os seguintes temas: **Web Development, Python, IA, Cloud .**
-> * ⚡ **Seguindo o Fluxo💜 e o Santos🤍 nas horas vagas**
+> * 💻 Desenvolvedor em evolução, Focado em **Automação, Dados e Soluções Práticas**
+> * 🌱 Atualmente estudando: **Python, Data & IA, Cloud, Web Development**
+> * 📊 Forte Interesse em **Análise de Dados e Visualização com Power BI**
+> * ⚡ Seguindo o Fluxo💜 e o Santos🤍 nas horas vagas
 
 -------------------------------------------------------
 
 ## 🧠 Conhecimentos:
 
 ### 💻 Linguagens e Bibliotecas:
-> ![Python](https://camo.githubusercontent.com/3df944c2b99f86f1361df72285183e890f11c52d36dfcd3c2844c6823c823fc1/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d507974686f6e26636f6c6f723d333737364142266c6f676f3d507974686f6e266c6f676f436f6c6f723d464646464646266c6162656c3d) 
-> ![HTML](https://camo.githubusercontent.com/d2da7e7ec8424780720101d4853c64dffb81dc69dfdd25a0ce88cdb3848bbc6f/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d48544d4c3526636f6c6f723d453334463236266c6f676f3d48544d4c35266c6f676f436f6c6f723d464646464646266c6162656c3d) 
-> ![CSS](https://camo.githubusercontent.com/9fe0ddca8c80fd49703246ca3b9a894ddfdc9c1c80f6ab5de92bbe91471dbab8/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d4353533326636f6c6f723d313537324236266c6f676f3d43535333266c6f676f436f6c6f723d464646464646266c6162656c3d) 
-> ![React](https://camo.githubusercontent.com/67a01fa7cf337616274f39c070a11638f2e65720e414ef55b8dd3f9c2a803b2a/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d526561637426636f6c6f723d323232323232266c6f676f3d5265616374266c6f676f436f6c6f723d363144414642266c6162656c3d)
+> ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+> ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+> ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+> ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+### 📊 Data & Analytics:
+> ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+> ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 
 ### 🎲 Databases:
-> ![Oracle](https://camo.githubusercontent.com/78d0180d1fc02fe9487b88f6e74cfcf3d8a575c319759f45fed678798df7d97c/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d4f7261636c6526636f6c6f723d463830303030266c6f676f3d4f7261636c65266c6f676f436f6c6f723d464646464646266c6162656c3d)
-> ![SQL](https://camo.githubusercontent.com/00c24d03159a604567a77fd6cf85557ff493b65ae9862564c807bf64b8febbc9/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d4d6963726f736f66742b53514c2b53657276657226636f6c6f723d434332393237266c6f676f3d4d6963726f736f66742b53514c2b536572766572266c6f676f436f6c6f723d464646464646266c6162656c3d)
-
+> ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+> ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 
 ### 🧰 Ferramentas:
-> ![Git](https://camo.githubusercontent.com/42acc7ee3a18313a065e672e0835729edf3361dedb045d6c3cf8821fe30a1c2d/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d47697426636f6c6f723d463035303332266c6f676f3d476974266c6f676f436f6c6f723d464646464646266c6162656c3d) 
-> ![GitHub](https://camo.githubusercontent.com/cca71357fe98ec5f8cd6ebab9044ad2901f4b64ebda379ac81608ed9f1caa1a0/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d47697448756226636f6c6f723d313831373137266c6f676f3d476974487562266c6f676f436f6c6f723d464646464646266c6162656c3d) 
+> ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+> ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ### ☁ Cloud Computing:
-> ![Azure](https://camo.githubusercontent.com/e390f20e5556c26f902300a4f5f6d1547caae6f89094cd77364b6e490d3bc89a/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d417a7572652b4465764f707326636f6c6f723d303037384437266c6f676f3d417a7572652b4465764f7073266c6f676f436f6c6f723d464646464646266c6162656c3d) 
+> ![Azure](https://img.shields.io/badge/Azure-0078D7?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
 ---------------
 
-### 💓: IDE'S:
-> ![VSCode](https://camo.githubusercontent.com/333efdf3d52583cf7c536e5364439a833bb89c25afffbb42550c2bf0ce260827/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d56697375616c2b53747564696f2b436f646526636f6c6f723d303037414343266c6f676f3d56697375616c2b53747564696f2b436f6465266c6f676f436f6c6f723d464646464646266c6162656c3d)
+### 💓 IDE'S:
+> ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ### 🐧 OS:
-> ![Windows](https://camo.githubusercontent.com/05b9005ece332e17d150e3e93ed590946687fc8be510609f0740c6dc4601ca29/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d57696e646f77732b313026636f6c6f723d303037384436266c6f676f3d57696e646f77732b3130266c6f676f436f6c6f723d464646464646266c6162656c3d)
-> ![Linux](https://camo.githubusercontent.com/137ec190ec7cf120cd4184f04474d452f6d475575dfc7fdf79fc1ed51022857c/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d4c696e757826636f6c6f723d323232323232266c6f676f3d4c696e7578266c6f676f436f6c6f723d464343363234266c6162656c3d) 
+> ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+> ![Linux](https://img.shields.io/badge/Linux-222222?style=for-the-badge&logo=linux&logoColor=FCC624)
 
 ### 📲 Social Networks:
 > * [LinkedIn](https://www.linkedin.com/in/nickolaskenji/)
 > * [Instagram](https://www.instagram.com/nickolas.kenji/) 
 
 -------------------------------------------------------
+
+## 📫 Contato:
+> 📧 Email: nick.k2003@gmail.com
